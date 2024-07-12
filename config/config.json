@@ -1,0 +1,6 @@
+{
+    "network": "development",
+    "infuraKey": "your-infura-key",
+    "mnemonic": "your-mnemonic-phrase"
+  }
+  
